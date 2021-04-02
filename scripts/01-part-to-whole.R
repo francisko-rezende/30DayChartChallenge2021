@@ -56,7 +56,7 @@ ggplot(water, aes(x = factor(year), y = values, fill = vars)) +
     subtitle = "The proportion of the population <span style = 'color:#2E86AB;'> with access </span> to safely managed drinking<br>water sources has been increasing since 2005",
     x = "",
     y = "",
-    caption = "@francisko_r | Data: World Health Organization (WHO) and United Nations Children's Fund (UNICEF)"
+    caption = "Francisko de Moraes Rezende (@francisko_r) | Data: World Health Organization (WHO) and United Nations Children's Fund (UNICEF)"
   ) +
   scale_fill_manual(values = c(NA, blue_ncs)) +
   theme_minimal() +
