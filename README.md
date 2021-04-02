@@ -10,3 +10,9 @@ More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
 ![](plots/day1.png)
 
 + [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/01-part-to-whole.R)
+
+## Day 2: Pictogram:
+
+![](plots/day2.png)
+
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/02-pictogram.R)
