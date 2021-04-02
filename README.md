@@ -1,3 +1,12 @@
-# 30DayChartChallenge2021
+# #30DayChartChallenge
 
-Repo created to keep my work for 2021's 30 day chart challenge
+![](img/banner.png)
+
+
+More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
+
+## Day 1: Part-to-whole:
+
+![](plots/day1.png)
+
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/01-part-to-whole.R)
