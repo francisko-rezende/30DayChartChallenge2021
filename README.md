@@ -17,7 +17,7 @@ More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
 
 + [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/02-pictogram.R)
 
-## Day 3: Pictogram:
+## Day 3: Historical:
 
 ![](plots/day3.png)
 
