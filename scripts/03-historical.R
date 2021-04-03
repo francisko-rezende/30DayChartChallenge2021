@@ -39,7 +39,7 @@ ggplot(temp, aes(x = x, y = y, fill = temp_median)) +
   coord_flip() +
   theme_void() +
   labs(
-    caption = "Plot by Francisko de Moraes Rezende (@francisko_r) | Data: Hadley Centre (HadCRUT4)"
+    caption = "Plot by Francisko de Moraes Rezende (@francisko_r), original by Ed Hawkins (@ed_hawkins) | Data: Hadley Centre (HadCRUT4)"
   ) +
   theme(
     legend.position = "none",
