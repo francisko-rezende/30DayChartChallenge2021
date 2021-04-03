@@ -52,7 +52,7 @@ micro_brewer %>%
   scale_color_manual(values = c(lager, dark), name = "Produces less than a barrel?") +
   labs(title = "Micro In Production And In Number",
        subtitle = "In 2019, two out of 100 brewers had small productions in the U.S",
-       caption = "Vizualisation by Francisko de Moraes Rezende (@francisko_r) | Data: Alcohol and Tobacco Tax and Trade Bureau (TTB)") +
+       caption = "Plot by Francisko de Moraes Rezende (@francisko_r) | Data: Alcohol and Tobacco Tax and Trade Bureau (TTB)") +
   theme_enhance_waffle() +
   theme_void() +
   theme(

@@ -1,3 +1,10 @@
+list_of_packages <-
+  c("tidyverse", "here", "showtext")
+new_packages <-
+  list_of_packages[!(list_of_packages %in% installed.packages()[, "Package"])]
+if (length(new_packages))
+  install.packages(new_packages)
+
 library(tidyverse)
 library(here)
 library(showtext)
@@ -32,12 +39,13 @@ ggplot(temp, aes(x = x, y = y, fill = temp_median)) +
   coord_flip() +
   theme_void() +
   labs(
-    caption = "Vizualisation by Francisko de Moraes Rezende (@francisko_r) | Data: Hadley Centre (HadCRUT4)"
+    caption = "Plot by Francisko de Moraes Rezende (@francisko_r) | Data: Hadley Centre (HadCRUT4)"
   ) +
   theme(
     legend.position = "none",
     plot.caption = element_text(size = 25, family = "Merriweather Sans"),
-    plot.margin = unit(c(1, 1, 1, 1), "cm")
+    plot.margin = unit(c(1, 1, 1, 1), "cm"),
+    plot.background = element_rect(fill = "#F5FFD6", color = "#F5FFD6")
   )
 
 ggsave(
@@ -57,7 +65,8 @@ ggplot2::ggplot(temp, aes(x = x, y = y, fill = temp_median)) +
   coord_flip() +
   theme_void() +
   theme(
-    legend.position = "none"
+    legend.position = "none",
+    plot.background = element_rect(fill = "#F5FFD6")
   )
 
 ggplot(temp, aes(x = x, y = y, fill = temp_median)) +
@@ -66,5 +75,6 @@ ggplot(temp, aes(x = x, y = y, fill = temp_median)) +
   coord_flip() +
   theme_void() +
   theme(
-    legend.position = "none"
+    legend.position = "none",
+    plot.background = element_rect(fill = "#F5FFD6")
   )
