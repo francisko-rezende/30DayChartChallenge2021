@@ -23,3 +23,9 @@ More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
 
 + [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/03-historical.R)
 
+## Day 4: Magical:
+
+![](plots/day4.png)
+
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/04-magic.R)
+
