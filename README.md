@@ -9,7 +9,7 @@ More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
 
 ![](plots/day5.png)
 
-+ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/04-slope.R)
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/05-slope.R)
 
 ## Day 4: Magical:
 
