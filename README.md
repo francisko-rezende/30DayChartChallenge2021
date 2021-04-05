@@ -5,17 +5,17 @@
 
 More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
 
-## Day 1: Part-to-whole:
+## Day 5: Slope:
 
-![](plots/day1.png)
+![](plots/day5.png)
 
-+ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/01-part-to-whole.R)
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/04-slope.R)
 
-## Day 2: Pictogram:
+## Day 4: Magical:
 
-![](plots/day2.png)
+![](plots/day4.png)
 
-+ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/02-pictogram.R)
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/04-magical.R)
 
 ## Day 3: Historical:
 
@@ -23,9 +23,16 @@ More info [here](https://github.com/Z3tt/30DayChartChallenge_Collection2021).
 
 + [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/03-historical.R)
 
-## Day 4: Magical:
+## Day 2: Pictogram:
 
-![](plots/day4.png)
+![](plots/day2.png)
 
-+ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/04-magical.R)
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/02-pictogram.R)
+
+
+## Day 1: Part-to-whole:
+
+![](plots/day1.png)
+
++ [Code](https://github.com/francisko-rezende/30DayChartChallenge2021/blob/main/scripts/01-part-to-whole.R)
 
